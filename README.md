@@ -9,18 +9,21 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
 ## 🚀 Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [Ultramarine Converter](https://ultramarine-converter.onrender.com/) | Web app to convert images to any format | Python, Flask |
-| [KBC](https://github.com/TYUFUN/KBC) | Windows keybind manager — open sites, apps & commands | Python |
-| [tgbotspdl](https://github.com/TYUFUN/tgbotspdl) | Telegram bot that downloads Spotify songs | Python |
+| Project | Description | 
+|---|---|
+| [Ultramarine Converter](https://ultramarine-converter.onrender.com/) | Web app to convert images to any format |
+| [KBC](https://github.com/TYUFUN/KBC) | Windows keybind manager — open sites, apps & commands |
+| [tgbotspdl](https://github.com/TYUFUN/tgbotspdl) | Telegram bot that downloads Spotify songs |
 
+## 🔭Working on
+[MagentaUI](https://github.com/TYUFUN/MagentaUI)
+System monitoring dashboard for servers on your pc in LAN (probably will be WAN too) 
 <!--
 ## 📊 Stats
 
