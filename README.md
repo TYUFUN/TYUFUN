@@ -11,7 +11,6 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TYUFUN&theme=midnight_purple)
 
 ## 🚀 Projects
 
