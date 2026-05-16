@@ -4,17 +4,14 @@
 
 </div>
 
----
 
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
 
----
 
 ## 🚀 Projects
 
@@ -24,8 +21,7 @@
 | [KBC](https://github.com/TYUFUN/KBC) | Windows keybind manager — open sites, apps & commands | Python |
 | [tgbotspdl](https://github.com/TYUFUN/tgbotspdl) | Telegram bot that downloads Spotify songs | Python |
 
----
-
+<!--
 ## 📊 Stats
 
 <div align="center">
@@ -34,7 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TYUFUN&layout=compact&theme=midnight-purple&hide_border=true)
 
 </div>
-
 <!--
 **TYUFUN/TYUFUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
