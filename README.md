@@ -24,6 +24,8 @@
 ## 🔭Working on
 [MagentaUI](https://github.com/TYUFUN/MagentaUI)
 System monitoring dashboard for servers on your pc in LAN (probably will be WAN too) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TYUFUN&layout=donut&theme=midnight-purple&hide_border=true)
 <!--
 ## 📊 Stats
 
