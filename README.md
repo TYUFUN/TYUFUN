@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+TYUFUN+%F0%9F%91%8B;Python+Developer;Building+tools+%26+bots)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+TYUFUN+%F0%9F%91%8B;Python+Developer;Building+tools+%26+bots)](https://git.io/typing-svg)
 
 </div>
 
