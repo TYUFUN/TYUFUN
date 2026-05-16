@@ -11,7 +11,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TYUFUN&layout=donut&theme=midnight-purple&hide_border=true)
 
 ## 🚀 Projects
 
@@ -24,8 +24,6 @@
 ## 🔭Working on
 [MagentaUI](https://github.com/TYUFUN/MagentaUI)
 System monitoring dashboard for servers on your pc in LAN (probably will be WAN too) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TYUFUN&layout=donut&theme=midnight-purple&hide_border=true)
 <!--
 ## 📊 Stats
 
